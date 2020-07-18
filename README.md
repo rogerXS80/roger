@@ -11,12 +11,6 @@
 </p>
 
 
-
-
-
-
-
-
 <h3 align="center">记录并分享每一次成长</h3>
 
 ------
@@ -27,7 +21,40 @@
 
 
 
-## ☕ Java
+## ![](https://gitee.com/wjxyzs/img/raw/master/img/java-original.svg?size=40&color=currentColor)  Java
+
+| Project | Version | Article                                                      |
+| :-----: | :-----: | :----------------------------------------------------------- |
+|   JVM   |         | [JVM与Java体系结构](/docs/java/JVM/JVM与Java体系结构.md)<br/>[类加载子系统](/docs/java/JVM/类加载子系统.md)<br/>[运行时数据区](/docs/java/JVM/Runtime-Data-Areas.md)<br/>[你有认真了解过自己的Java“对象”吗](https://mp.weixin.qq.com/s/4NDnFf3sripUIp3uT8W3HQ)<br/> |
+|  Java8  |         | [Java8 通关攻略](/docs/java/java8.md)<br/>                   |
+|   JUC   |         | [不懂Java 内存模型，就先别扯什么高并发](/docs/java/JUC/Java-Memory-Model.md)<br/>[从 Atomic 到 CAS ，竟然衍生出这么多 20k+ 面试题](/docs/java/JUC/volatile.md)<br/>[「阻塞队列」手写生产者消费者、线程池原理面试题真正的答案](https://mp.weixin.qq.com/s/NALM27_K4GIqNmm7kScTAw)<br/>[线程池解毒](/docs/java/JUC/Thread-Pool.md)<br/> |
+|   NIO   |         |                                                              |
+
+
+
+## ![](https://gitee.com/wjxyzs/img/raw/master/img/python-original.svg?size=50&color=currentColor) Python
+
+| Project |                           Version                            | Article                                                      |
+| :-----: | :----------------------------------------------------------: | :----------------------------------------------------------- |
+|  parse  | [python2](/docs/java/JVM/JVM与Java体系结构.md)<br/>[python3](/docs/java/JVM/类加载子系统.md)<br/> | [python2](/docs/java/JVM/JVM与Java体系结构.md)<br/>[python3](/docs/java/JVM/类加载子系统.md)<br/> |
+| object  |                                                              | [元类]()<br/>[魔法方法]()<br/>                               |
+|   JUC   |                                                              | [不懂Java 内存模型，就先别扯什么高并发](/docs/java/JUC/Java-Memory-Model.md)<br/>[从 Atomic 到 CAS ，竟然衍生出这么多 20k+ 面试题](/docs/java/JUC/volatile.md)<br/>[「阻塞队列」手写生产者消费者、线程池原理面试题真正的答案](https://mp.weixin.qq.com/s/NALM27_K4GIqNmm7kScTAw)<br/>[线程池解毒](/docs/java/JUC/Thread-Pool.md)<br/> |
+|   NIO   |                                                              |                                                              |
+
+
+
+## ![](https://gitee.com/wjxyzs/img/raw/master/img/go-original.svg?size=40&color=currentColor) Go
+
+| Project | Version | Article                                                      |
+| :-----: | :-----: | :----------------------------------------------------------- |
+|   JVM   |         | [JVM与Java体系结构](/docs/java/JVM/JVM与Java体系结构.md)<br/>[类加载子系统](/docs/java/JVM/类加载子系统.md)<br/>[运行时数据区](/docs/java/JVM/Runtime-Data-Areas.md)<br/>[你有认真了解过自己的Java“对象”吗](https://mp.weixin.qq.com/s/4NDnFf3sripUIp3uT8W3HQ)<br/> |
+|  Java8  |         | [Java8 通关攻略](/docs/java/java8.md)<br/>                   |
+|   JUC   |         | [不懂Java 内存模型，就先别扯什么高并发](/docs/java/JUC/Java-Memory-Model.md)<br/>[从 Atomic 到 CAS ，竟然衍生出这么多 20k+ 面试题](/docs/java/JUC/volatile.md)<br/>[「阻塞队列」手写生产者消费者、线程池原理面试题真正的答案](https://mp.weixin.qq.com/s/NALM27_K4GIqNmm7kScTAw)<br/>[线程池解毒](/docs/java/JUC/Thread-Pool.md)<br/> |
+|   NIO   |         |                                                              |
+
+
+
+##  ![](https://gitee.com/wjxyzs/img/raw/master/img/android-original-wordmark.svg?size=50&color=currentColor) Android
 
 | Project | Version | Article                                                      |
 | :-----: | :-----: | :----------------------------------------------------------- |
@@ -107,7 +134,6 @@
 |  Maven  | [头条一面竟然问我maven?](/docs/tools/Maven.md)               |
 |   Git   | [github 竟然有这些骚操作，真是涨姿势](/docs/tools/github.md) |
 |  IDEA   | [IDEA总结——磨刀霍霍向代码](/docs/tools/IDEA.md)              |
-| Jenkins |                                                              |
 
 
 
