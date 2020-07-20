@@ -36,10 +36,10 @@
 
 | Project |                           Version                            | Article                                                      |
 | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------- |
-|  parse  | [python2](/docs/java/JVM/JVM与Java体系结构.md)<br/>[python3](/docs/java/JVM/类加载子系统.md)<br/> | [python2](/docs/java/JVM/JVM与Java体系结构.md)<br/>[python3](/docs/java/JVM/类加载子系统.md)<br/> |
-| object  |                                                              | [元类]()<br/>[魔法方法]()<br/>                               |
-|   JUC   |                                                              | [不懂Java 内存模型，就先别扯什么高并发](/docs/java/JUC/Java-Memory-Model.md)<br/>[从 Atomic 到 CAS ，竟然衍生出这么多 20k+ 面试题](/docs/java/JUC/volatile.md)<br/>[「阻塞队列」手写生产者消费者、线程池原理面试题真正的答案](https://mp.weixin.qq.com/s/NALM27_K4GIqNmm7kScTAw)<br/>[线程池解毒](/docs/java/JUC/Thread-Pool.md)<br/> |
-|   NIO   |                                                              |                                                              |
+|  Parse  | [python2](/docs/java/JVM/JVM与Java体系结构.md)<br/>[python3](/docs/java/JVM/类加载子系统.md)<br/> | [python2](/docs/java/JVM/JVM与Java体系结构.md)<br/>[python3](/docs/java/JVM/类加载子系统.md)<br/> |
+| Object  |                                                              | [元类]()<br/>[魔法方法]()<br/>继承机制<br/>装饰器<br/>       |
+|   GC    |                                                              | [不懂Java 内存模型，就先别扯什么高并发](/docs/java/JUC/Java-Memory-Model.md)<br/> |
+|   GIL   |                                                              |                                                              |
 
 
 
@@ -71,10 +71,10 @@
 |                           Project                            | Version | Article                                                      |
 | :----------------------------------------------------------: | :-----: | :----------------------------------------------------------- |
 | ![](https://icongr.am/devicon//mysql-original.svg?size=20) **MySQL** | 5.7.25  | [1、MySQL架构概述](docs/mysql/MySQL-Framework.md)<br/>[2、MySQL存储引擎](docs/mysql/MySQL-Storage-Engines.md)<br/>[3、索引](docs/mysql/MySQL-Index.md)<br/>[4、事务](docs/mysql/MySQL-Transaction.md)<br/>5、表设计<br/>[6、性能优化](docs/mysql/MySQL-Optimization.md)<br/>7、锁机制<br/>8、分区分表分库<br/>9 、主从复制<br/> |
-| ![](https://icongr.am/devicon//redis-original.svg?size=20)   **Redis** |  5.0.6  | [1、NoSQL概述](docs/data-store/Redis/1.Nosql-Overview.md)<br/>[2、Redis概述](docs/data-store/Redis/2.readRedis.md)<br/>[3、Redis数据类型](docs/data-store/Redis/3.Redis-Datatype.md)<br/>[4、Redis配置](docs/data-store/Redis/4.Redis-Conf.md)<br/>[5、深入理解 Redis 的持久化](docs/data-store/Redis/5.Redis-Persistence.md)<br/> |
+| ![](https://icongr.am/devicon//redis-original.svg?size=20)  **Redis** |  5.0.6  | [1、NoSQL概述](docs/data-store/Redis/1.Nosql-Overview.md)<br/>[2、Redis概述](docs/data-store/Redis/2.readRedis.md)<br/>[3、Redis数据类型](docs/data-store/Redis/3.Redis-Datatype.md)<br/>[4、Redis配置](docs/data-store/Redis/4.Redis-Conf.md)<br/>[5、深入理解 Redis 的持久化](docs/data-store/Redis/5.Redis-Persistence.md)<br/> |
 |                      **Elasticsearch**                       |         |                                                              |
 |                        **Amazon S3**                         |         |                                                              |
-|                           MongoDB                            |         |                                                              |
+| ![](https://icongr.am/devicon/mongodb-original.svg?size=25&color=currentColor) **MongoDB** |         |                                                              |
 |                           FastDFS                            |         |                                                              |
 
 
@@ -101,13 +101,28 @@
 
 ##  🏡  必备框架
 
-| Project | Version | Article |
-| :-----: | :-----: | :------ |
-|   JPA   |         |         |
-| MyBatis |         |         |
-|  Shiro  |         |         |
+## 前端
 
+|                           Project                            | Version | Article |
+| :----------------------------------------------------------: | :-----: | :------ |
+| ![](https://icongr.am/devicon/vuejs-original.svg?size=24&color=currentColor) Vue |         |         |
+| ![](https://icongr.am/devicon/react-original.svg?size=24&color=currentColor) React |         |         |
+| ![](https://icongr.am/devicon/jquery-original.svg?size=21&color=currentColor) JQuery |         |         |
+| ![](https://icongr.am/devicon/bootstrap-plain.svg?size=22&color=currentColor) Bootstrap |         |         |
 
+## 后端
+
+| Project | platform | Version |  Article   |
+| :-----: | :------: | :------ | :--------: |
+|   JPA   |   Java   |         | 更换交换机 |
+| MyBatis |   Java   |         |            |
+|  Shiro  |   Java   |         |            |
+| Django  |  Python  |         |            |
+|  Flask  |  python  |         |            |
+|         |          |         |            |
+|         |          |         |            |
+|         |          |         |            |
+|   Gin   |    Go    |         |            |
 
 ##  ✉️ Message Queue
 
