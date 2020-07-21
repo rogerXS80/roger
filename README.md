@@ -28,7 +28,7 @@
 | :-----: | :----------------------------------------------------------- |
 |  IDEA   | [IDEA总结——磨刀霍霍向代码](/docs/tools/IDEA.md)              |
 | Jenkins |                                                              |
-|   Git   | [1.Git安装与介绍](C:\Users\Administrator\Desktop\Roger\https:\rogerxs80.github.io\2020\05\21\Git安装与介绍)     [2.Git命令大全](https:\rogerxs80.github.io\2020\05\21\Git命令大全\) |
+|   Git   | [1.Git安装与介绍](https://rogerxs80.github.io/2020/05/21/Git安装与介绍)     [2.Git命令大全](https:\rogerxs80.github.io\2020\05\21\Git命令大全\) |
 |  Maven  | [头条一面竟然问我maven?](/docs/tools/Maven.md)               |
 
 
@@ -56,12 +56,12 @@
 
 ## ![](https://gitee.com/wjxyzs/img/raw/master/img/python-original.svg?size=50&color=currentColor) Python
 
-| Project | Version | Article                                                      |
-| :-----: | :-----: | :----------------------------------------------------------- |
-|  Parse  |         | [python2](/docs/java/JVM/JVM与Java体系结构.md)<br/>[python3](/docs/java/JVM/类加载子系统.md)<br/> |
-| Object  |         | [Type元类]()<br/>[魔法方法！！！Magic]()<br/>[Mro继承机制]()<br/>[装饰器]()<br/> |
-|   GC    |         | [你可能不了解的python内存优化机制]()                         |
-|   GIL   |         | [就是它！python被鄙视的罪魁祸首]()                           |
+| Project |      Version       | Article                                                      |
+| :-----: | :----------------: | :----------------------------------------------------------- |
+|  Parse  | 2.7.0<br>3.8.0<br> |                                                              |
+| Object  |                    | [Type元类]()<br/>[魔法方法！！！Magic]()<br/>[Mro继承机制]()<br/>[装饰器]()<br/> |
+|   GC    |                    | [你可能不了解的python内存优化机制]()                         |
+|   GIL   |                    | [就是它！python被鄙视的罪魁祸首]()                           |
 
 
 
@@ -134,15 +134,16 @@
 
 
 
-### CSS框架
+##  CSS框架
 
-<hr>
 
 |  Project   |   Version   | Article |
 | :--------: | :---------: | :------ |
 | Bootstrap  |     4.0     |         |
 | Element UI | 基于Vue 2.0 |         |
 |            |             |         |
+
+
 
 ## 后端
 
