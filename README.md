@@ -18,7 +18,7 @@
 
 通过 gitbook 的形式整理了自己的工作和学习经验，[Lupinus](https://rogerxs80.github.io) 直接访问即可，也推荐大家采用这种形式创建属于自己的“笔记本”，让成长看的见。
 
-> 欢迎关注公众号 [Lupinus](#) ，有 500+ 本电子书，大佬云集的微信群，等你来撩~
+> 欢迎关注公众号 [Lupinus](https://gitee.com/wjxyzs/img) ，有 500+ 本电子书，大佬云集的微信群，等你来撩~
 
 
 
@@ -93,7 +93,7 @@
 |                           Project                            | Version | Article                                                      |
 | :----------------------------------------------------------: | :-----: | :----------------------------------------------------------- |
 | ![](https://icongr.am/devicon//mysql-original.svg?size=20) **MySQL** |  5.6.0  | [1、MySQL架构概述](docs/mysql/MySQL-Framework.md)<br/>[2、MySQL存储引擎](docs/mysql/MySQL-Storage-Engines.md)<br/>[3、索引](docs/mysql/MySQL-Index.md)<br/>[4、事务](docs/mysql/MySQL-Transaction.md)<br/>5、表设计<br/>[6、性能优化](docs/mysql/MySQL-Optimization.md)<br/>7、锁机制<br/>8、分区分表分库<br/>9 、主从复制<br/> |
-| ![](https://icongr.am/devicon//redis-original.svg?size=20)  **Redis** |  5.0.6  | [1、NoSQL概述](docs/data-store/Redis/1.Nosql-Overview.md)<br/>[2、Redis概述](docs/data-store/Redis/2.readRedis.md)<br/>[3、Redis数据类型](docs/data-store/Redis/3.Redis-Datatype.md)<br/>[4、Redis配置](docs/data-store/Redis/4.Redis-Conf.md)<br/>[5、深入理解 Redis 的持久化](docs/data-store/Redis/5.Redis-Persistence.md)<br/> |
+| ![](https://icongr.am/devicon//redis-original.svg?size=20)  **Redis** |  5.0.6  | [1、NoSQL概述]()<br/>[2、介绍安装配置](https://rogerxs80.github.io/2020/06/21/Redis初识/)<br/>[3、API的使用](https://rogerxs80.github.io/2020/06/21/API的使用/)<br/>[4、客户端使用](docs/data-store/Redis/4.Redis-Conf.md)<br/>[5、高级用法](https://rogerxs80.github.io/2020/06/21/高级用法/)<br/>[6、持久化](https://rogerxs80.github.io/2020/06/21/持久化/)<br/>[7、使用常见问题](https://rogerxs80.github.io/2020/06/21/使用常见问题/)<br/>[8、主从复制原理与优化](https://rogerxs80.github.io/2020/06/21/主从复制原理与优化/)<br/>[9、Redis-Sentinel](https://rogerxs80.github.io/2020/06/21/Sentinel/)<br/>[10、缓存的使用和优化](https://rogerxs80.github.io/2020/06/21/缓存的使用和优化/)<br/> |
 |                      **Elasticsearch**                       |         |                                                              |
 | ![](https://icongr.am/devicon/mongodb-original.svg?size=25&color=currentColor) **MongoDB** |         |                                                              |
 |                         **FastDFS**                          |         |                                                              |
