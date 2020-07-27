@@ -24,12 +24,13 @@
 
 ## ⚒️ 基础工具
 
-| Project | Article                                                      |
-| :-----: | :----------------------------------------------------------- |
-|  IDEA   | [IDEA总结——磨刀霍霍向代码](/docs/tools/IDEA.md)              |
-| Jenkins |                                                              |
-|   Git   | [1.Git安装与介绍](https://rogerxs80.github.io/2020/05/21/Git安装与介绍)     [2.Git命令大全](https:\rogerxs80.github.io\2020\05\21\Git命令大全) |
-|  Maven  | [头条一面竟然问我maven?](/docs/tools/Maven.md)               |
+| Project  | Article                                                      |
+| :------: | :----------------------------------------------------------- |
+|   IDEA   | [IDEA总结——工欲善其事必先利其器](https://rogerxs80.github.io/2020/07/27/IDEA总结/) |
+| Jenkins  |                                                              |
+|   Git    | [1.Git安装与介绍](https://rogerxs80.github.io/2020/05/21/Git安装与介绍)     [2.Git命令大全](https:\rogerxs80.github.io\2020\05\21\Git命令大全) |
+|  Maven   | [头条一面竟然问我maven?](/docs/tools/Maven.md)               |
+| Markdown |                                                              |
 
 
 
@@ -39,7 +40,6 @@
 | :-----: | :----------------------------------------------------------: |
 | ubuntun | [ubuntun软件安装](https://www.notion.so/ubuntu-d2222ddf429a471d80b1ef3a55c6fe6b) |
 | CentOS  |                                                              |
-|         |                                                              |
 
 
 
@@ -59,9 +59,10 @@
 | Project |      Version       | Article                                                      |
 | :-----: | :----------------: | :----------------------------------------------------------- |
 |  Parse  | 2.7.0<br>3.8.0<br> |                                                              |
-| Object  |                    | [Type元类]()<br/>[魔法方法！！！Magic]()<br/>[Mro继承机制]()<br/>[装饰器]()<br/> |
+|   OOD   |                    | [Type元类]()<br/>[魔法方法！！！Magic]()<br/>[Mro继承机制]()<br/>[装饰器]()<br/> |
 |   GC    |                    | [你可能不了解的python内存优化机制]()                         |
 |   GIL   |                    | [就是它！python被鄙视的罪魁祸首]()                           |
+|   DRF   |                    | [1.restful API规范与DRF安装](https:\rogerxs80.github.io\2020\04\22\API规范与drf安装\)<br/>[2.序列化器-Serializer](https://rogerxs80.github.io/2020/04/22/序列化器-Serializer/)<br/>[3.HTTP请求处理与响应](https://rogerxs80.github.io/2020/04/22/Django Rest Framework框架/)<br/>[4.视图View与路由Router](https://rogerxs80.github.io/2020/04/22/视图View与路由Router/)<br/>[5.DRF框架中常用的组件](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/>[6.xadmin](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/> |
 
 
 
@@ -69,10 +70,10 @@
 
 | Project | Version | Article |
 | :-----: | :-----: | :------ |
-|   JVM   |         |         |
-|  Java8  |         |         |
-|   JUC   |         |         |
-|   NIO   |         |         |
+|         |         |         |
+|         |         |         |
+|         |         |         |
+|         |         |         |
 
 
 
@@ -80,10 +81,10 @@
 
 | Project | Version | Article |
 | :-----: | :-----: | :------ |
-|   JVM   |         |         |
-|  Java8  |         |         |
-|   JUC   |         |         |
-|   NIO   |         |         |
+|         |         |         |
+|         |         |         |
+|         |         |         |
+|         |         |         |
 
 
 
@@ -96,7 +97,7 @@
 | ![](https://icongr.am/devicon//redis-original.svg?size=20)  **Redis** |  5.0.6  | [1、NoSQL概述]()<br/>[2、介绍安装配置](https://rogerxs80.github.io/2020/06/21/Redis初识/)<br/>[3、API的使用](https://rogerxs80.github.io/2020/06/21/API的使用/)<br/>[4、客户端使用](docs/data-store/Redis/4.Redis-Conf.md)<br/>[5、高级用法](https://rogerxs80.github.io/2020/06/21/高级用法/)<br/>[6、持久化](https://rogerxs80.github.io/2020/06/21/持久化/)<br/>[7、使用常见问题](https://rogerxs80.github.io/2020/06/21/使用常见问题/)<br/>[8、主从复制原理与优化](https://rogerxs80.github.io/2020/06/21/主从复制原理与优化/)<br/>[9、Redis-Sentinel](https://rogerxs80.github.io/2020/06/21/Sentinel/)<br/>[10、缓存的使用和优化](https://rogerxs80.github.io/2020/06/21/缓存的使用和优化/)<br/> |
 |                      **Elasticsearch**                       |         |                                                              |
 | ![](https://icongr.am/devicon/mongodb-original.svg?size=25&color=currentColor) **MongoDB** |         |                                                              |
-|                         **FastDFS**                          |         |                                                              |
+|                         **FastDFS**                          |         | [FastDFS分布式文件系统](https://www.notion.so/FastDFS-9786fd85b30947e0b0f0967ed70eabbf) |
 |                        **Amazon S3**                         |         |                                                              |
 |                        **PostgreSQL**                        |         |                                                              |
 
@@ -155,17 +156,17 @@
 |  Shiro  |   Java   |         |            |
 | Django  |  Python  |  2.2.0  |            |
 |  Flask  |  Python  |         |            |
+| Tornado |  Python  |         |            |
 | FastAPI |  Python  |         |            |
-|         |          |         |            |
 |         |          |         |            |
 |   Gin   |    Go    |         |            |
 
 ##  ✉️ Message Queue
 
-| Project  | Version | Article                                                     |
-| :------: | :-----: | :---------------------------------------------------------- |
-| RabbitMQ |         | [RabbitMQ的世界]()<br>                                      |
-|  Kafka   |  2.12   | [Hello Kafka](/docs/message-queue/Kafka/Hello-Kafka.md)<br> |
+| Project  | Version | Article                                                      |
+| :------: | :-----: | :----------------------------------------------------------- |
+| RabbitMQ |         | [RabbitMQ的世界](https://www.notion.so/RabbitMQ-62bf0bcee2b042caacb9997f14490501)<br> |
+|  Kafka   |  2.12   | [Hello Kafka](/docs/message-queue/Kafka/Hello-Kafka.md)<br>  |
 
 
 
@@ -230,7 +231,7 @@
 | Spring  | 「 直击面试」—— Spring高频面试题                             |
 |  网络   | [「 直击面试」—— 搞定计算机网络](/docs/network/Network-FAQ.md) |
 |  基础   | [「 直击面试」—— 搞定 Java 集合](/docs/java/Collections/Collections-FAQ.md) |
-|  MySQL  | [「 直击面试」—— MySQL三文字总结+面试100问](https://mp.weixin.qq.com/s/MCFHNOQnTtJ6MGVjM3DP4A) |
+|  MySQL  | [「 直击面试」—— MySQL三万文字总结+面试100问](https://www.notion.so/MySQL-4900c63417bb446a97a0dee71b0ae9a6) |
 
 
 
