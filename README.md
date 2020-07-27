@@ -62,7 +62,7 @@
 |   OOD   |                    | [Type元类]()<br/>[魔法方法！！！Magic]()<br/>[Mro继承机制]()<br/>[装饰器]()<br/> |
 |   GC    |                    | [你可能不了解的python内存优化机制]()                         |
 |   GIL   |                    | [就是它！python被鄙视的罪魁祸首]()                           |
-|   DRF   |                    | [1.restful API规范与DRF安装](https:\rogerxs80.github.io\2020\04\22\API规范与drf安装\)<br/>[2.序列化器-Serializer](https://rogerxs80.github.io/2020/04/22/序列化器-Serializer/)<br/>[3.HTTP请求处理与响应](https://rogerxs80.github.io/2020/04/22/Django Rest Framework框架/)<br/>[4.视图View与路由Router](https://rogerxs80.github.io/2020/04/22/视图View与路由Router/)<br/>[5.DRF框架中常用的组件](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/>[6.xadmin](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/> |
+|   DRF   |                    | [1.restful API规范与DRF安装](https://rogerxs80.github.io/2020/04/22/API规范与drf安装/)<br/>[2.序列化器-Serializer](https://rogerxs80.github.io/2020/04/22/序列化器-Serializer/)<br/>[3.HTTP请求处理](https://rogerxs80.github.io/2020/04/22/http请求处理/)<br/>[4.视图View与路由Router](https://rogerxs80.github.io/2020/04/22/视图View与路由Router/)<br/>[5.DRF框架中常用的组件](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/>[6.xadmin](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/> |
 
 
 
