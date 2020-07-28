@@ -13,7 +13,6 @@
 
 
 <h3 align="center">记录并分享每一次成长</h3>
-
 ------
 
 通过 gitbook 的形式整理了自己的工作和学习经验，[Lupinus](https://rogerxs80.github.io) 直接访问即可，也推荐大家采用这种形式创建属于自己的“笔记本”，让成长看的见。
@@ -34,7 +33,7 @@
 
 
 
-## ![](https://icongr.am/devicon/docker-original.svg?size=44&color=currentColor) 镜像工具
+## ![](https://icongr.am/devicon/docker-original.svg?size=50&color=currentColor) 镜像工具
 
 | Project |                           Article                            |
 | :-----: | :----------------------------------------------------------: |
@@ -54,19 +53,19 @@
 
 
 
-## ![](https://gitee.com/wjxyzs/img/raw/master/img/python-original.svg?size=50&color=currentColor) Python
+## ![](https://gitee.com/wjxyzs/img/raw/master/img/python-original.svg?size=48&color=currentColor) Python
 
 | Project |      Version       | Article                                                      |
 | :-----: | :----------------: | :----------------------------------------------------------- |
-|  Parse  | 2.7.0<br>3.8.0<br> |                                                              |
-|   OOD   |                    | [Type元类]()<br/>[魔法方法！！！Magic]()<br/>[Mro继承机制]()<br/>[装饰器]()<br/> |
-|   GC    |                    | [你可能不了解的python内存优化机制]()                         |
-|   GIL   |                    | [就是它！python被鄙视的罪魁祸首]()                           |
+|  Parse  | 2.7.0<br>3.6.0<br> |                                                              |
+|   OOD   |                    | [装饰器]()<br/>[Mro继承机制]()<br/>[Type元类]()<br/>[魔法方法！！！Magic]()<br/> |
+|   GIL   |                    | [GC：你可能不了解的python内存优化机制]()<br>[就是它！python被鄙视的罪魁祸首]() |
 |   DRF   |                    | [1.restful API规范与DRF安装](https://rogerxs80.github.io/2020/04/22/API规范与drf安装/)<br/>[2.序列化器-Serializer](https://rogerxs80.github.io/2020/04/22/序列化器-Serializer/)<br/>[3.HTTP请求处理](https://rogerxs80.github.io/2020/04/22/http请求处理/)<br/>[4.视图View与路由Router](https://rogerxs80.github.io/2020/04/22/视图View与路由Router/)<br/>[5.DRF框架中常用的组件](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/>[6.xadmin](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/> |
+| Scrape  |                    | 爬虫攻防战                                                   |
 
 
 
-## ![](https://gitee.com/wjxyzs/img/raw/master/img/go-original.svg?size=40&color=currentColor) Go
+## ![](https://gitee.com/wjxyzs/img/raw/master/img/go-original.svg?size=36&color=currentColor) Go
 
 | Project | Version | Article |
 | :-----: | :-----: | :------ |
@@ -123,7 +122,7 @@
 
 
 
-##  🏡  必备框架
+##  🏡 必备框架
 
 ## 前端
 
@@ -132,7 +131,6 @@
 | ![](https://icongr.am/devicon/vuejs-original.svg?size=24&color=currentColor) Vue |   2.0   |         |
 | ![](https://icongr.am/devicon/react-original.svg?size=24&color=currentColor) React |         |         |
 | ![](https://icongr.am/devicon/jquery-original.svg?size=21&color=currentColor) JQuery |  1.4.1  |         |
-|                                                              |         |         |
 
 
 
@@ -143,30 +141,30 @@
 | :--------: | :---------: | :------ |
 | Bootstrap  |     4.0     |         |
 | Element UI | 基于Vue 2.0 |         |
-|            |             |         |
 
 
 
 ## 后端
 
-| Project | platform | Version |  Article   |
-| :-----: | :------: | :-----: | :--------: |
-|   JPA   |   Java   |         | 更换交换机 |
-| MyBatis |   Java   |         |            |
-|  Shiro  |   Java   |         |            |
-| Django  |  Python  |  2.2.0  |            |
-|  Flask  |  Python  |         |            |
-| Tornado |  Python  |         |            |
-| FastAPI |  Python  |         |            |
-|         |          |         |            |
-|   Gin   |    Go    |         |            |
+| Project | platform | Version | Article                                                      |
+| :-----: | :------: | :-----: | :----------------------------------------------------------- |
+|   JPA   |   Java   |         | 更换交换机                                                   |
+| MyBatis |   Java   |         |                                                              |
+|  Shiro  |   Java   |         |                                                              |
+| Django  |  Python  |  2.2.0  | [1.初识Django框架]()<br/>[2.静态文件、request对象与链接数据库]()<br/>[3.数据编辑、orm表关系和路由层]()<br/>[4.视图层]()<br/>[5.模板层]()<br/>[6.模型层]()<br/>[7.Ajax操作]()<br/>[8.Forms组件]()<br/>[9.Cookie与Session]()<br/>[10.Django中间件与csrf跨站请求伪造]()<br/>[11.MTV和MVC模型与Auth模块]()<br/>[12.批量插入与分页器]()<br/>[13.了解知识]()<br/> |
+|  Flask  |  Python  |         |                                                              |
+| Tornado |  Python  |         |                                                              |
+| FastAPI |  Python  |         |                                                              |
+|   Gin   |    Go    |         |                                                              |
 
 ##  ✉️ Message Queue
 
 | Project  | Version | Article                                                      |
 | :------: | :-----: | :----------------------------------------------------------- |
+|  Celery  |         |                                                              |
 | RabbitMQ |         | [RabbitMQ的世界](https://www.notion.so/RabbitMQ-62bf0bcee2b042caacb9997f14490501)<br> |
 |  Kafka   |  2.12   | [Hello Kafka](/docs/message-queue/Kafka/Hello-Kafka.md)<br>  |
+|  ZeroMQ  |         |                                                              |
 
 
 
