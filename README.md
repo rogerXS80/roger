@@ -29,6 +29,8 @@
 | Jenkins  |                                                              |
 |   Git    | [1.Git安装与介绍](https://rogerxs80.github.io/2020/05/21/Git安装与介绍)     [2.Git命令大全](https:\rogerxs80.github.io\2020\05\21\Git命令大全) |
 |  Maven   | [头条一面竟然问我maven?](/docs/tools/Maven.md)               |
+|  Shell   |                                                              |
+|  Chrome  | [chrome开发者工具](https://rogerxs80.github.io/2020/08/13/chrome开发者工具/) |
 | Markdown | [Markdown语法](https://rogerxs80.github.io/2020/05/28/Markdown语法/) |
 
 
@@ -39,6 +41,16 @@
 | :-----: | :----------------------------------------------------------: |
 | ubuntun | [ubuntun软件安装](https://www.notion.so/ubuntu-d2222ddf429a471d80b1ef3a55c6fe6b) |
 | CentOS  |                                                              |
+
+
+
+## 🥛 运行容器
+
+|  Project   | Article |
+| :--------: | :-----: |
+|   Docker   |         |
+|   tomcat   |         |
+| apacheHttp |         |
 
 
 
@@ -67,12 +79,12 @@
 
 ## ![](https://gitee.com/wjxyzs/img/raw/master/img/go-original.svg?size=36&color=currentColor) Go
 
-| Project | Version | Article |
-| :-----: | :-----: | :------ |
-|         |         |         |
-|         |         |         |
-|         |         |         |
-|         |         |         |
+|  Project  | Version | Article |
+| :-------: | :-----: | :------ |
+| goroutine |         |         |
+|           |         |         |
+|           |         |         |
+|           |         |         |
 
 
 
@@ -97,7 +109,6 @@
 |                      **Elasticsearch**                       |         |                                                              |
 | ![](https://icongr.am/devicon/mongodb-original.svg?size=25&color=currentColor) **MongoDB** |         |                                                              |
 |                         **FastDFS**                          |         | [FastDFS分布式文件系统](https://www.notion.so/FastDFS-9786fd85b30947e0b0f0967ed70eabbf) |
-|                        **Amazon S3**                         |         |                                                              |
 |                        **PostgreSQL**                        |         |                                                              |
 
 
@@ -107,7 +118,7 @@
 |  Project  |       Version       | Article                                                      |
 | :-------: | :-----------------: | :----------------------------------------------------------- |
 | **Linux** | CentOS release 6.10 | [Linux通关攻略]( <https://github.com/Jstarfish/JavaEgg/blob/master/docs/linux/linux.md>) |
-| **Nginx** |       1.16.1        | [Nginx通关攻略](docs/nginx/nginx.md)                         |
+| **Nginx** |       1.16.1        | [Nginx通关攻略](https://rogerxs80.github.io/2020/08/12/Nginx通关攻略/) |
 
 
 
@@ -156,7 +167,14 @@
 |  Flask  |  Python  |         |                                                              |
 | Tornado |  Python  |         |                                                              |
 | FastAPI |  Python  |         |                                                              |
-|   Gin   |    Go    |         |                                                              |
+
+| Project | Version | Article |
+| :-----: | :-----: | :------ |
+|   Gin   |   Go    |         |
+|  Beego  |   Go    |         |
+|  Echo   |   Go    |         |
+
+
 
 ##  ✉️ Message Queue
 
@@ -165,7 +183,6 @@
 |  Celery  |         |                                                              |
 | RabbitMQ |         | [RabbitMQ的世界](https://www.notion.so/RabbitMQ-62bf0bcee2b042caacb9997f14490501)<br> |
 |  Kafka   |  2.12   | [Hello Kafka](/docs/message-queue/Kafka/Hello-Kafka.md)<br>  |
-|  ZeroMQ  |         |                                                              |
 
 
 
@@ -241,7 +258,7 @@
 
 ## ©️ 转载
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/>本<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品</span>由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/rogerXS80" property="cc:attributionName" rel="cc:attributionURL">Lupinus</a> 创作，遵循<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC 4.0 BY-SA </a>版权协议。
+本<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">作品</span>由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/rogerXS80" property="cc:attributionName" rel="cc:attributionURL">Lupinus</a> 创作，遵循<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC 4.0 BY-SA </a>版权协议。
 
 
 
@@ -250,6 +267,5 @@
 扫一扫《亚威农少女》，寻找你要的“宝藏”
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlly1gf8izv6q5jj30ft0ft4ir.jpg)
-
 
 
