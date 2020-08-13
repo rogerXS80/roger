@@ -163,10 +163,11 @@
 |   JPA   |   Java   |         | 更换交换机                                                   |
 | MyBatis |   Java   |         |                                                              |
 |  Shiro  |   Java   |         |                                                              |
-| Django  |  Python  |  2.2.0  | [1.初识Django框架]()<br/>[2.静态文件、request对象与链接数据库]()<br/>[3.数据编辑、orm表关系和路由层]()<br/>[4.视图层]()<br/>[5.模板层]()<br/>[6.模型层]()<br/>[7.Ajax操作]()<br/>[8.Forms组件]()<br/>[9.Cookie与Session]()<br/>[10.Django中间件与csrf跨站请求伪造]()<br/>[11.MTV和MVC模型与Auth模块]()<br/>[12.批量插入与分页器]()<br/>[13.了解知识]()<br/> |
+| Django  |  Python  |  2.2.0  | [1.初识Django框架](https://rogerxs80.github.io/2020/02/10/初识django框架/)<br/>[2.静态文件、request对象与链接数据库](https://rogerxs80.github.io/2020/02/10/静态文件、request对象与链接数据库/)<br/>[3.数据编辑、orm表关系和路由层](https://rogerxs80.github.io/2020/02/11/数据编辑、orm表关系和路由层/)<br/>[4.视图层](https://rogerxs80.github.io/2020/02/12/视图层/)<br/>[5.模板层](https://rogerxs80.github.io/2020/02/12/模板层/)<br/>[6.模型层](https://rogerxs80.github.io/2020/02/12/模型层/)<br/>[7.Ajax操作](https://rogerxs80.github.io/2020/02/15/Ajax操作/)<br/>[8.Forms组件](https://rogerxs80.github.io/2020/02/15/Forms组件/)<br/>[9.Cookie与Session](https://rogerxs80.github.io/2020/02/16/Cookie与Session/)<br/>[10.Django中间件与csrf跨站请求伪造](https://rogerxs80.github.io/2020/02/17/django中间件与csrf跨站请求伪造/)<br/>[11.MTV和MVC模型与Auth模块](https://rogerxs80.github.io/2020/02/17/MTV和MVC模型与Auth模块/)<br/>[12.批量插入与分页器](https://rogerxs80.github.io/2020/02/15/批量插入与分页器/)<br/>[13.了解知识](https://rogerxs80.github.io/2020/02/19/了解知识/)<br/> |
 |  Flask  |  Python  |         |                                                              |
 | Tornado |  Python  |         |                                                              |
 | FastAPI |  Python  |         |                                                              |
+<<<<<<< HEAD
 
 | Project | Version | Article |
 | :-----: | :-----: | :------ |
@@ -175,6 +176,10 @@
 |  Echo   |   Go    |         |
 
 
+=======
+|   Gin   |    Go    |         |                                                              |
+|  Beego  |    Go    |         |                                                              |
+>>>>>>> 8457d3a3fe26537f0775a767aa35e2d2e4446579
 
 ##  ✉️ Message Queue
 
@@ -245,9 +250,9 @@
 | Project | Article                                                      |
 | :-----: | :----------------------------------------------------------- |
 | Spring  | 「 直击面试」—— Spring高频面试题                             |
-|  网络   | [「 直击面试」—— 搞定计算机网络](/docs/network/Network-FAQ.md) |
+|  网络   | [「 直击面试」—— 搞定计算机网络](https://rogerxs80.github.io/2020/06/22/搞定计算机网络/) |
 |  基础   | [「 直击面试」—— 搞定 Java 集合](/docs/java/Collections/Collections-FAQ.md) |
-|  MySQL  | [「 直击面试」—— MySQL三万文字总结+面试100问](https://www.notion.so/MySQL-4900c63417bb446a97a0dee71b0ae9a6) |
+|  MySQL  | [「 直击面试」—— MySQL三万文字总结+面试100问](https://rogerxs80.github.io/2020/06/22/三万字精华总结/) |
 
 
 
