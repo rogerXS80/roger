@@ -19,8 +19,6 @@
 
 > 欢迎关注公众号 [Lupinus](https://gitee.com/wjxyzs/img) ，有 500+ 本电子书，大佬云集的微信群，等你来撩~
 
-
-
 ## ⚒️ 基础工具
 
 | Project  | Article                                                      |
@@ -49,8 +47,8 @@
 |  Project   | Article |
 | :--------: | :-----: |
 |   Docker   |         |
-|   tomcat   |         |
-| apacheHttp |         |
+|   Tomcat   |         |
+| ApacheHttp |         |
 
 
 
@@ -70,7 +68,7 @@
 | Project |      Version       | Article                                                      |
 | :-----: | :----------------: | :----------------------------------------------------------- |
 |  Parse  | 2.7.0<br>3.6.0<br> |                                                              |
-|   OOD   |                    | [装饰器]()<br/>[Mro继承机制]()<br/>[Type元类]()<br/>[魔法方法！！！Magic]()<br/> |
+|   OOD   |                    | [三大神器](https://rogerxs80.github.io/2020/08/19/python之三大神器/)<br/>[Mro继承机制]()<br/>[Type元类]()<br/>[魔法方法！！！Magic]()<br/> |
 |   GIL   |                    | [GC：你可能不了解的python内存优化机制]()<br>[就是它！python被鄙视的罪魁祸首]() |
 |   DRF   |                    | [1.restful API规范与DRF安装](https://rogerxs80.github.io/2020/04/22/API规范与drf安装/)<br/>[2.序列化器-Serializer](https://rogerxs80.github.io/2020/04/22/序列化器-Serializer/)<br/>[3.HTTP请求处理](https://rogerxs80.github.io/2020/04/22/http请求处理/)<br/>[4.视图View与路由Router](https://rogerxs80.github.io/2020/04/22/视图View与路由Router/)<br/>[5.DRF框架中常用的组件](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/>[6.xadmin](https://rogerxs80.github.io/2020/04/22/DRF框架中常用的组件/)<br/> |
 | Scrape  |                    | 爬虫攻防战                                                   |
@@ -115,10 +113,10 @@
 
 ##  🖥️ 服务器
 
-|  Project  |       Version       | Article                                                      |
-| :-------: | :-----------------: | :----------------------------------------------------------- |
-| **Linux** | CentOS release 6.10 | [Linux通关攻略]( <https://github.com/Jstarfish/JavaEgg/blob/master/docs/linux/linux.md>) |
-| **Nginx** |       1.16.1        | [Nginx通关攻略](https://rogerxs80.github.io/2020/08/12/Nginx通关攻略/) |
+|  Project  |       Version       |                           Article                            |
+| :-------: | :-----------------: | :----------------------------------------------------------: |
+| **Linux** | CentOS release 6.10 | [Linux通关手册]( <https://github.com/Jstarfish/JavaEgg/blob/master/docs/linux/linux.md>) |
+| **Nginx** |       1.16.1        | [Nginx通关手册](https://rogerxs80.github.io/2020/08/12/Nginx通关攻略/) |
 
 
 
@@ -167,7 +165,7 @@
 |  Flask  |  Python  |         |                                                              |
 | Tornado |  Python  |         |                                                              |
 | FastAPI |  Python  |         |                                                              |
-<<<<<<< HEAD
+
 
 | Project | Version | Article |
 | :-----: | :-----: | :------ |
@@ -176,10 +174,6 @@
 |  Echo   |   Go    |         |
 
 
-=======
-|   Gin   |    Go    |         |                                                              |
-|  Beego  |    Go    |         |                                                              |
->>>>>>> 8457d3a3fe26537f0775a767aa35e2d2e4446579
 
 ##  ✉️ Message Queue
 
