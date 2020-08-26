@@ -115,7 +115,7 @@
 
 |  Project  |       Version       |                           Article                            |
 | :-------: | :-----------------: | :----------------------------------------------------------: |
-| **Linux** | CentOS release 6.10 | [Linux通关手册]( <https://github.com/Jstarfish/JavaEgg/blob/master/docs/linux/linux.md>) |
+| **Linux** | CentOS release 6.10 | [Linux通关手册](https://rogerxs80.github.io/2020/06/25/Linux通关攻略/) |
 | **Nginx** |       1.16.1        | [Nginx通关手册](https://rogerxs80.github.io/2020/08/12/Nginx通关攻略/) |
 
 
